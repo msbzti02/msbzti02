@@ -12,8 +12,8 @@
 ---
 
 ## 🗣 Languages
-- 🇱🇾 Arabic — Native  
-- 🇬🇧 English — Intermediate  
+-  Arabic — Native  
+-  English — Intermediate  
 
 ---
 
