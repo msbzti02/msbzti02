@@ -1,32 +1,45 @@
-<h1 align="center">Hi, I'm Mourad Sleem</h1>
+<h1 align="center">Hi 👋, I'm Mourad Sleem</h1>
 <h3 align="center">AI Student | 4th Year @ BAU</h3>
 
 ---
 
-## About Me
-- AI student, 4th year at BAU  
-- Focused on Machine Learning and Computer Vision  
-- Currently working with Python and Jupyter  
-- Based in Zliten, Libya  
+## 🌟 About Me
+- 🎓 AI student, 4th year at BAU  
+- 🧠 Focused on Machine Learning & Computer Vision  
+- 🐍 Strong focus on Python for data & AI  
+- 🌍 Based in Zliten, Libya  
 
 ---
 
-## Languages
-- Arabic — Native  
-- English — Intermediate  
+## 🗣 Languages
+- 🇱🇾 Arabic — Native  
+- 🇬🇧 English — Intermediate  
 
 ---
 
-## Tools & Technologies
+## 💻 Favorite Tools & Technologies
+
+| Python | Flask | TensorFlow | PyTorch |
+|------|-------|------------|---------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50"/> |
+
+| scikit-learn | NumPy | Pandas | Jupyter |
+|-------------|-------|--------|---------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50"/> |
+
+---
+
+## 📫 Contact
+
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
+  <a href="mailto:moradbshina@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/feed/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## Featured Project
-🔹 **CIFAR-10 Image Classification using Vision Transformer (ViT)**  
-Machine learning project focused on image classification using transformers.
+![snake](https://raw.githubusercontent.com/ishandutta2007/snk/output-svg-only/github-contribution-grid-snake.svg)
