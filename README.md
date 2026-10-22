@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mourad Sleem</h1>
-<h3 align="center">AI engineer | 4th Year @ BAU</h3>
+<h3 align="center">AI engineer | @ BAU</h3>
 
 ---
 
