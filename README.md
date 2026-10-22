@@ -4,7 +4,7 @@
 ---
 
 ## 🌟 About Me
-- 🎓 AI engineer, 4th year at BAU  
+- 🎓 AI engineer, at BAU  
 - 🧠 Focused on Machine Learning & Computer Vision  
 - 🐍 Strong focus on Python for data & AI  
 - 🌍 Based in Zliten, Libya  
