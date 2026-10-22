@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mourad Sleem</h1>
-<h3 align="center">AI Student | 4th Year @ BAU</h3>
+<h3 align="center">AI engineer | 4th Year @ BAU</h3>
 
 ---
 
 ## 🌟 About Me
-- 🎓 AI student, 4th year at BAU  
+- 🎓 AI engineer, 4th year at BAU  
 - 🧠 Focused on Machine Learning & Computer Vision  
 - 🐍 Strong focus on Python for data & AI  
 - 🌍 Based in Zliten, Libya  
